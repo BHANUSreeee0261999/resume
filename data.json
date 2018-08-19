@@ -1,0 +1,48 @@
+{
+	"basicdetails":{
+		"image":"images.jpg",
+		"name":"B.Bhanusri",
+		"email":"bhanusrichowdary99@gmail.com",
+		"phone":"9949824224",
+		"address":"thimmasamudram"
+	},
+"education":[
+
+	{
+		"course":"B.Tech(C.S.E)",
+		"college":"Vignan's nirula college",
+		"percentage":"85%"
+	},
+	{
+		"course":"Intermediate",
+		"college":"Srichaitanya",
+		"percentage":"90%"
+	},
+	{
+		"course":"SSC",
+		"college":"Niveditha EM High School",
+		"percentage":"85%"      
+	}
+],
+"Skills":[
+{
+	"name":"Operating Systems",
+	"value":"Windows,Linux,MAC"
+ },
+ {
+	"name":"Programming Languages",
+	"value":"C,c++,Java,Python"
+ }
+],
+"carrier":{
+	"ca":"I am using my knowlede skills towards the growth of our organization and I obey the organization rules and take my resposibility end of my working days"
+},
+"Achievements":[
+	"I got first prize in quiz competition in my college.",
+    "I got second prize in tech summit in mumbai.",
+    "I got first prize in power point presentation."
+],
+"Description":{
+	"des":"Here there by I want to mention that all the above mentioned data are total self details."
+}
+}                                
